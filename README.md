@@ -8,7 +8,9 @@ This research paper is accepted for publication in the **Springer Nature - Resea
 
 PAPER ID #: *ICM4216*
 
-TITLE OF PAPER/ARTICLE: *Sentiment Analysis of Long-term Social Data during the COVID-19 Pandemic Sophanna Ek, Marco Curci, Xiaokun Yang, Beiyu Lin, Hailu Xu*
+TITLE OF PAPER/ARTICLE: *Sentiment Analysis of Long-term Social Data during the COVID-19 Pandemic*
+
+CONTRIBUTORS: Sophanna Ek, Marco Curci, Xiaokun Yang, Beiyu Lin, Hailu Xu
 
 ## Overview
 Over 1.3+ million COVID-19 related tweets have been collected, processed, analyzed, and gender classified from Februrary 2020 to Februrary 2021.
@@ -16,6 +18,6 @@ Over 1.3+ million COVID-19 related tweets have been collected, processed, analyz
 ## Research Features
 
 * Data collection and processing
-* Analysis method
+* Analysis methods
 * Sentiment analysis
 * Twitter Gender classification based on tweet content
