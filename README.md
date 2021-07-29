@@ -11,10 +11,10 @@ PAPER ID #: *ICM4216*
 
 TITLE OF PAPER/ARTICLE: *Sentiment Analysis of Long-term Social Data during the COVID-19 Pandemic*
 
-CONTRIBUTORS: Sophanna Ek, Marco Curci, Xiaokun Yang, Beiyu Lin, Hailu Xu
+CONTRIBUTORS: *Sophanna Ek*, Marco Curci, Xiaokun Yang, Beiyu Lin, Hailu Xu
 
 ## Overview
-Over 1.3+ million COVID-19 related tweets have been collected, processed, analyzed, and gender classified from Februrary 2020 to Februrary 2021.
+Millions of COVID-19 related tweets have been collected, processed, analyzed, and gender classified from Februrary 2020 to Februrary 2021.
 
 ## Research Features
 * Data collection and processing

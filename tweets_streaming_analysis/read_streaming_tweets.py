@@ -63,7 +63,7 @@ if __name__ == "__main__":
     tweet_sentiment_udf = udf(get_sentiment_label, StringType())
 
     # load the pre-trained model 
-    model = PipelineModel.load('./sample-model')
+    model = PipelineModel.load('./spam-trained-model')
     
     try: 
         # # read the tweet data from socket -- lines is dataframe
